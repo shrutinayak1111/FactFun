@@ -1,0 +1,13 @@
+h1,p{
+    display: flex;
+    justify-content: center;
+}
+button{
+    display: grid;
+    justify-content: center;
+    margin: auto;
+}
+.container{
+    border-radius: 2px solid black;
+    box-sizing: border-box;
+}
